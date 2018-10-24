@@ -76,5 +76,5 @@ def all_holidays_with_bbq(holiday_hash)
       end
     end
   end
-  puts bb_q
+  return bb_q
 end
